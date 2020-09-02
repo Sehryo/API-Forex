@@ -12,4 +12,6 @@ O projeto faz integração com o Firebase, com a SDK de integração entre o PHP
 
 Tendo tudo isso dito, os arquivos do meu firebase pessoal serão retirados, para guardar minhas informações.
 
+Para a utilizar em um servidor (para fazer uma cronjob, por exemplo), será preciso um VPS. Para utilizar a API é muito simples: Basta baixar todos os arquivos e extrair os zips. Tudo está funcional!
+
 No demais, estou disposto a responder quaisquer informações!
